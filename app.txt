@@ -1,1 +1,1 @@
-version rota del proyecto
+aprendiendo a usar linux y git
